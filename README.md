@@ -16,10 +16,3 @@ The **Smart Baby Cradle** is an innovative project designed to enhance childcare
 - AI-based sleep pattern analysis.
 - Enhanced security features.
 
-## Contributions 🤝
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
----
-### 📩 Contact
-For any queries, feel free to reach out to us!
-
